@@ -1,0 +1,2 @@
+# strangeioc_example_rock_study
+学习strangeioc样例文件。
